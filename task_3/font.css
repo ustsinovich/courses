@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Post No Bills Jaffna SemiBold';    
+    src: url('./postnobillsjaffna/PostNoBillsJaffna-SemiBold.ttf') format('truetype');    
+    font-style: normal;   
+}
+
+@font-face {
+    font-family: 'Raleway';    
+    src: url('./fonts/Raleway-Thin.ttf') format('truetype');    
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('./fonts/PlayfairDisplay-VariableFont_wght.ttf') format('truetype');    
+    font-style: normal;
+    font-weight: bold;
+}
